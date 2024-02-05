@@ -30,8 +30,8 @@ Contributions are welcome! If you have suggestions, improvements, or want to rep
 License
 
 This project is licensed under the MIT License.
-Contact
 
+**Contact**
 Feel free to reach out to Mcchance through the provided contact information for any inquiries or collaborations.
 
 Thank you for visiting the Mcchance Portfolio Project!
