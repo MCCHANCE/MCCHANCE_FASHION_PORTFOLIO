@@ -6,9 +6,13 @@ Welcome to the Mcchance Portfolio Project! This is a personal portfolio website 
 
 **Features**
     **Home** A brief introduction to Mcchance and an overview of the portfolio.
+    
     **About Me** Get to know Mcchance's background, skills, and interests.
+    
    ** Projects** Explore a collection of projects highlighting Mcchance's expertise and creativity.
+   
   **  Resume** Access Mcchance's professional resume to get a comprehensive overview of qualifications.
+  
    ** Contact** Connect with Mcchance through various channels.
 
 **Technologies Used**
